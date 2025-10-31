@@ -354,3 +354,6 @@ Patient Diagnostics
 Inventory Tracking
 
 The system’s structure allows for easy modification, additional constraints, and adaptation for larger-scale hospital environments.
+
+## ER Diagram
+![ER-Diagram](pictures/ER-Diagram.png)
